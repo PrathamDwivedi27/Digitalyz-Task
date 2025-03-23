@@ -1,0 +1,1655 @@
+[
+  {
+    "ARTBND": {
+      "title": "Band - High",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 25,
+      "maxSectionSize": 40,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ARTCHOR": {
+      "title": "Chorus - High",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 40,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ARTDRAW": {
+      "title": "Drawing and Painting",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ARTSTD1": {
+      "title": "Studio Art I",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "ARTSTD2": {
+      "title": "Studio Art II",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "BIB10": {
+      "title": "Bible 10",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 12,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "BIB11": {
+      "title": "Bible 11",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 12,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "BIB12": {
+      "title": "Bible 12",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 12,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "BIB9": {
+      "title": "Bible 9",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 12,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "DEBIO101": {
+      "title": "Dual Enrollment Biology 101",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "2B"
+      ],
+      "unavailableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "DECHEM105": {
+      "title": "Dual Enrollment Chemistry 105",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "DEENG101": {
+      "title": "Dual Enrollment English 101",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "DEENG151": {
+      "title": "Dual Enrollment English 151",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "DEITCHG": {
+      "title": "Dual Enrollment Intro. to Teaching 201",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 5,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "DESOCIP": {
+      "title": "Dual Enrollment Intro. to Psych. 101",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 5,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "DESOCWCIV2": {
+      "title": "Dual Enrollment World Civ. 151",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "2A",
+        "2B"
+      ],
+      "unavailableBlocks": [
+        "1A",
+        "1B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "DEWCIV1": {
+      "title": "Dual Enrollment World Civ. 101",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "2A",
+        "2B"
+      ],
+      "unavailableBlocks": [
+        "1A",
+        "1B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "ENG10": {
+      "title": "English 10",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ENG10H": {
+      "title": "English 10 Honors",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ENG11": {
+      "title": "American Literature",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 12,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ENG11AMLTH-": {
+      "title": "American Literature Honors",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "ENG12WORLD": {
+      "title": "World Literature",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ENG12WORLDH": {
+      "title": "World Literature Honors",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "ENG9": {
+      "title": "English 9",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ENG9H": {
+      "title": "English 9 Honors",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ENGSPCH": {
+      "title": "Speech Communications",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "FAF": {
+      "title": "Faith & Film",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 20,
+      "numSections": 2,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "FINLIT": {
+      "title": "Financial Literacy",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "LANSP1": {
+      "title": "Spanish I",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "LANSP2": {
+      "title": "Spanish II",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "LANSP3": {
+      "title": "Spanish III",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "LIVEWELL": {
+      "title": "Living Well",
+      "length": 0.5,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 5,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 4,
+      "totalCredits": 0
+    }
+  },
+  {
+    "MATALG1": {
+      "title": "Algebra 1",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATALG1H": {
+      "title": "Algebra 1 Honors",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATALG2": {
+      "title": "Algebra II",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATALG2H": {
+      "title": "Alg II Honors",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATAPCALCAB": {
+      "title": "AP Calculus A/B",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 3,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATDESTATS": {
+      "title": "Dual Enrollment Statistics 152",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "MATFUND": {
+      "title": "Fundamental Math",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 15,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0
+    }
+  },
+  {
+    "MATGEOM": {
+      "title": "Geometry",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATGEOMH": {
+      "title": "Geometry Honors",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATHALGIII": {
+      "title": "Trig/Algebra III",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATHPREALGH7": {
+      "title": "Pre-Algebra Honors 7",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 15,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0
+    }
+  },
+  {
+    "MATHSTATSH": {
+      "title": "Statistics Honors",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "MATPREALG": {
+      "title": "Pre-Algebra",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 15,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 0
+    }
+  },
+  {
+    "MATTRAN": {
+      "title": "Transitional Math",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 15,
+      "targetSectionSize": 22,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 0
+    }
+  },
+  {
+    "MATTRIG": {
+      "title": "Trig/PreCalculus",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATTRIGH": {
+      "title": "Trig/Pre-Calculus Hon",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "PEHEALTHHS": {
+      "title": "Health - High",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 3,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "PEHS": {
+      "title": "Physical Education - High",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "PEPF": {
+      "title": "Personal Fitness",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "SCIANATPH": {
+      "title": "Anatomy & Physiology",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "SCIBIO": {
+      "title": "Biology",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SCIBIOH": {
+      "title": "Biology Honors",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SCICHEM10H": {
+      "title": "Chemistry Honors",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SCIERTH": {
+      "title": "Earth and Space Science",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SCIMABIO": {
+      "title": "Marine Biology",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "SCIPHY": {
+      "title": "Physical Science",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SOC10GOV": {
+      "title": "American Government & Politics",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SOC10GOVH": {
+      "title": "American Government & Politics Honors",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SOC11": {
+      "title": "World History",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SOC9": {
+      "title": "US History",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SOCIB": {
+      "title": "Introduction to Business",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "TECHADVROB": {
+      "title": "Advanced Robotics",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "TECHDIGIT": {
+      "title": "Digital Imaging & Editing",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "TECHGRAPHIC": {
+      "title": "Graphic Design",
+      "length": 1,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "TECHYEAR": {
+      "title": "Yearbook",
+      "length": 2,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "PERS": {
+      "title": "Recreational Sports",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "SCIPHYH": {
+      "title": "Physics Honors",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SOCMODUS": {
+      "title": "Modern America",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 0,
+      "totalCredits": 0.5
+    }
+  },
+  {
+    "TECHBRJR": {
+      "title": "Broadcast Journalism",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 0,
+      "totalCredits": 1
+    }
+  },
+  {
+    "MATALG1MS": {
+      "title": "Algebra I Honors (MS)",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 10,
+      "targetSectionSize": 20,
+      "maxSectionSize": 26,
+      "numSections": 2,
+      "totalCredits": 0
+    }
+  },
+  {
+    "APCOMP": {
+      "title": "AP Computer Science",
+      "length": 2,
+      "priority": "Core course",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 3,
+      "targetSectionSize": 15,
+      "maxSectionSize": 20,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "ENGJOUR": {
+      "title": "Journalism",
+      "length": 2,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 1,
+      "totalCredits": 1
+    }
+  },
+  {
+    "SOCCONT": {
+      "title": "Contemporary Issues",
+      "length": 1,
+      "priority": "Elective",
+      "availableBlocks": [
+        "1A",
+        "1B",
+        "2A",
+        "2B",
+        "3",
+        "4A",
+        "4B"
+      ],
+      "unavailableBlocks": [],
+      "minSectionSize": 7,
+      "targetSectionSize": 15,
+      "maxSectionSize": 26,
+      "numSections": 0,
+      "totalCredits": 0.5
+    }
+  }
+]

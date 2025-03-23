@@ -1,0 +1,10 @@
+{
+    "courseCodeFormat": "uppercase",
+    "removeEmptyFields": true,
+    "defaultValues": {
+      "length": 0,
+      "priority": "medium",
+      "credits": 0
+    }
+  }
+  

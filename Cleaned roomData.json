@@ -1,0 +1,794 @@
+[
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361487,
+    "lectureId": 278027,
+    "courseCode": "ARTCHOR",
+    "termName": "1",
+    "roomNumber": 129
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361415,
+    "lectureId": 278028,
+    "courseCode": "ARTDRAW",
+    "termName": "1",
+    "roomNumber": 133
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361415,
+    "lectureId": 278032,
+    "courseCode": "ARTSTD1",
+    "termName": "1",
+    "roomNumber": 133
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361400,
+    "lectureId": 278034,
+    "courseCode": "BIB10",
+    "termName": "1",
+    "roomNumber": 201
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361400,
+    "lectureId": 278034,
+    "courseCode": "BIB10",
+    "termName": "1",
+    "roomNumber": 202
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5712532,
+    "lectureId": 278035,
+    "courseCode": "BIB11",
+    "termName": "1",
+    "roomNumber": 201
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5712532,
+    "lectureId": 278035,
+    "courseCode": "BIB11",
+    "termName": "1",
+    "roomNumber": 201
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361454,
+    "lectureId": 278036,
+    "courseCode": "BIB12",
+    "termName": "1",
+    "roomNumber": 210
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361454,
+    "lectureId": 278036,
+    "courseCode": "BIB12",
+    "termName": "1",
+    "roomNumber": 203
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361454,
+    "lectureId": 278040,
+    "courseCode": "BIB9",
+    "termName": "1",
+    "roomNumber": 126
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361400,
+    "lectureId": 278040,
+    "courseCode": "BIB9",
+    "termName": "1",
+    "roomNumber": 201
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361498,
+    "lectureId": 278041,
+    "courseCode": "DEBIO101",
+    "termName": "1",
+    "roomNumber": 122
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5738588,
+    "lectureId": 278044,
+    "courseCode": "DEENG151",
+    "termName": "1",
+    "roomNumber": 114
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361457,
+    "lectureId": 278046,
+    "courseCode": "DESOCIP",
+    "termName": "1",
+    "roomNumber": 123
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361422,
+    "lectureId": 278048,
+    "courseCode": "DEWCIV1",
+    "termName": "1",
+    "roomNumber": 113
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5738588,
+    "lectureId": 278049,
+    "courseCode": "ENG10",
+    "termName": "1",
+    "roomNumber": 114
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5738588,
+    "lectureId": 278050,
+    "courseCode": "ENG10H",
+    "termName": "1",
+    "roomNumber": 114
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5396634,
+    "lectureId": 278051,
+    "courseCode": "ENG11",
+    "termName": "1",
+    "roomNumber": 113
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5738588,
+    "lectureId": 278052,
+    "courseCode": "ENG11AMLTH-",
+    "termName": "1",
+    "roomNumber": 114
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5738588,
+    "lectureId": 278053,
+    "courseCode": "ENG12WORLD",
+    "termName": "1",
+    "roomNumber": 114
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5396634,
+    "lectureId": 278058,
+    "courseCode": "ENG9",
+    "termName": "1",
+    "roomNumber": 113
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5396634,
+    "lectureId": 278059,
+    "courseCode": "ENG9H",
+    "termName": "1",
+    "roomNumber": 113
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361400,
+    "lectureId": 278062,
+    "courseCode": "FAF",
+    "termName": "1",
+    "roomNumber": 202
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5738609,
+    "lectureId": 278063,
+    "courseCode": "FINLIT",
+    "termName": "1",
+    "roomNumber": 209
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361540,
+    "lectureId": 278064,
+    "courseCode": "LANSP1",
+    "termName": "1",
+    "roomNumber": 128
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361540,
+    "lectureId": 278064,
+    "courseCode": "LANSP1",
+    "termName": "1",
+    "roomNumber": 128
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361540,
+    "lectureId": 278065,
+    "courseCode": "LANSP2",
+    "termName": "1",
+    "roomNumber": 128
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361540,
+    "lectureId": 278065,
+    "courseCode": "LANSP2",
+    "termName": "1",
+    "roomNumber": 128
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361540,
+    "lectureId": 278066,
+    "courseCode": "LANSP3",
+    "termName": "1",
+    "roomNumber": 128
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5693041,
+    "lectureId": 278068,
+    "courseCode": "MATALG1",
+    "termName": "1",
+    "roomNumber": 123
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5693041,
+    "lectureId": 278069,
+    "courseCode": "MATALG1H",
+    "termName": "1",
+    "roomNumber": 123
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361420,
+    "lectureId": 278070,
+    "courseCode": "MATALG2",
+    "termName": "1",
+    "roomNumber": 113
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361424,
+    "lectureId": 278071,
+    "courseCode": "MATALG2H",
+    "termName": "1",
+    "roomNumber": 125
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5693041,
+    "lectureId": 278072,
+    "courseCode": "MATAPCALCAB",
+    "termName": "1",
+    "roomNumber": 125
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5407259,
+    "lectureId": 278075,
+    "courseCode": "MATGEOM",
+    "termName": "1",
+    "roomNumber": 125
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5407259,
+    "lectureId": 278076,
+    "courseCode": "MATGEOMH",
+    "termName": "1",
+    "roomNumber": 128
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5773375,
+    "lectureId": 278077,
+    "courseCode": "MATHALGIII",
+    "termName": "1",
+    "roomNumber": 118
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5769118,
+    "lectureId": 278079,
+    "courseCode": "MATHSTATSH",
+    "termName": "1",
+    "roomNumber": 125
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5439555,
+    "lectureId": 278082,
+    "courseCode": "MATTRIG",
+    "termName": "1",
+    "roomNumber": 125
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361420,
+    "lectureId": 278083,
+    "courseCode": "MATTRIGH",
+    "termName": "1",
+    "roomNumber": 125
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361411,
+    "lectureId": 278089,
+    "courseCode": "PEPF",
+    "termName": "1",
+    "roomNumber": 148
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361498,
+    "lectureId": 278093,
+    "courseCode": "SCIANATPH",
+    "termName": "1",
+    "roomNumber": 122
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361409,
+    "lectureId": 278094,
+    "courseCode": "SCIBIO",
+    "termName": "1",
+    "roomNumber": 124
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361409,
+    "lectureId": 278095,
+    "courseCode": "SCIBIOH",
+    "termName": "1",
+    "roomNumber": 124
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361498,
+    "lectureId": 278096,
+    "courseCode": "SCICHEM10H",
+    "termName": "1",
+    "roomNumber": 122
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361409,
+    "lectureId": 278097,
+    "courseCode": "SCIERTH",
+    "termName": "1",
+    "roomNumber": 124
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5693041,
+    "lectureId": 278099,
+    "courseCode": "SCIPHY",
+    "termName": "1",
+    "roomNumber": 123
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361492,
+    "lectureId": 278100,
+    "courseCode": "SOC10GOV",
+    "termName": "1",
+    "roomNumber": 203
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5736761,
+    "lectureId": 278101,
+    "courseCode": "SOC10GOVH",
+    "termName": "1",
+    "roomNumber": 202
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5736761,
+    "lectureId": 278102,
+    "courseCode": "SOC11",
+    "termName": "1",
+    "roomNumber": 202
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361492,
+    "lectureId": 278106,
+    "courseCode": "SOC9",
+    "termName": "1",
+    "roomNumber": 203
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361492,
+    "lectureId": 278106,
+    "courseCode": "SOC9",
+    "termName": "1",
+    "roomNumber": 203
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5396634,
+    "lectureId": 278108,
+    "courseCode": "SOCIB",
+    "termName": "1",
+    "roomNumber": 113
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361516,
+    "lectureId": 278112,
+    "courseCode": "TECHADVROB",
+    "termName": "1",
+    "roomNumber": 205
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361516,
+    "lectureId": 278113,
+    "courseCode": "TECHDIGIT",
+    "termName": "1",
+    "roomNumber": 205
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5396676,
+    "lectureId": 278116,
+    "courseCode": "TECHYEAR",
+    "termName": "1",
+    "roomNumber": 305
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361498,
+    "lectureId": 282762,
+    "courseCode": "SCIPHYH",
+    "termName": "1",
+    "roomNumber": 122
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361516,
+    "lectureId": 298024,
+    "courseCode": "APCOMP",
+    "termName": "1",
+    "roomNumber": 205
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361380,
+    "lectureId": 278070,
+    "courseCode": "MATALG2",
+    "termName": "1",
+    "roomNumber": 124
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361498,
+    "lectureId": 278096,
+    "courseCode": "SCICHEM10H",
+    "termName": "1",
+    "roomNumber": 122
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361409,
+    "lectureId": 278097,
+    "courseCode": "SCIERTH",
+    "termName": "1",
+    "roomNumber": 124
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361492,
+    "lectureId": 278100,
+    "courseCode": "SOC10GOV",
+    "termName": "1",
+    "roomNumber": 203
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361492,
+    "lectureId": 282763,
+    "courseCode": "SOCMODUS",
+    "termName": "1",
+    "roomNumber": 203
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361516,
+    "lectureId": 278113,
+    "courseCode": "TECHDIGIT",
+    "termName": "1",
+    "roomNumber": 205
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361519,
+    "lectureId": 278023,
+    "courseCode": "ARTBND",
+    "termName": "1",
+    "roomNumber": 130
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5396634,
+    "lectureId": 300216,
+    "courseCode": "ENGJOUR",
+    "termName": "1",
+    "roomNumber": 113
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361411,
+    "lectureId": 278087,
+    "courseCode": "PEHEALTHHS",
+    "termName": "1",
+    "roomNumber": 118
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361411,
+    "lectureId": 278088,
+    "courseCode": "PEHS",
+    "termName": "1",
+    "roomNumber": 148
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5712532,
+    "lectureId": 306765,
+    "courseCode": "INTROSOCI",
+    "termName": "1",
+    "roomNumber": 128
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361456,
+    "lectureId": 277478,
+    "courseCode": "",
+    "termName": "1",
+    "roomNumber": 305
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361415,
+    "lectureId": 278033,
+    "courseCode": "ARTSTD2",
+    "termName": "2",
+    "roomNumber": 133
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361498,
+    "lectureId": 278042,
+    "courseCode": "DECHEM105",
+    "termName": "2",
+    "roomNumber": 122
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5738588,
+    "lectureId": 278043,
+    "courseCode": "DEENG101",
+    "termName": "2",
+    "roomNumber": 114
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361457,
+    "lectureId": 278045,
+    "courseCode": "DEITCHG",
+    "termName": "2",
+    "roomNumber": 123
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361422,
+    "lectureId": 278047,
+    "courseCode": "DESOCWCIV2",
+    "termName": "2",
+    "roomNumber": 113
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5738588,
+    "lectureId": 278054,
+    "courseCode": "ENG12WORLDH",
+    "termName": "2",
+    "roomNumber": 114
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5396634,
+    "lectureId": 278061,
+    "courseCode": "ENGSPCH",
+    "termName": "2",
+    "roomNumber": 113
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361400,
+    "lectureId": 278062,
+    "courseCode": "FAF",
+    "termName": "2",
+    "roomNumber": 209
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5736761,
+    "lectureId": 278063,
+    "courseCode": "FINLIT",
+    "termName": "2",
+    "roomNumber": 202
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361478,
+    "lectureId": 278073,
+    "courseCode": "MATDESTATS",
+    "termName": "2",
+    "roomNumber": 125
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5693041,
+    "lectureId": 278098,
+    "courseCode": "SCIMABIO",
+    "termName": "2",
+    "roomNumber": 122
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361516,
+    "lectureId": 278114,
+    "courseCode": "TECHGRAPHIC",
+    "termName": "2",
+    "roomNumber": 205
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361411,
+    "lectureId": 282758,
+    "courseCode": "PERS",
+    "termName": "2",
+    "roomNumber": 148
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361492,
+    "lectureId": 300217,
+    "courseCode": "SOCCONT",
+    "termName": "2",
+    "roomNumber": 203
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361516,
+    "lectureId": 278114,
+    "courseCode": "TECHGRAPHIC",
+    "termName": "2",
+    "roomNumber": 205
+  },
+  {
+    "sectionNumber": 2,
+    "year": "2024-2025",
+    "professorId": 5361411,
+    "lectureId": 278087,
+    "courseCode": "PEHEALTHHS",
+    "termName": "2",
+    "roomNumber": 118
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5361411,
+    "lectureId": 278088,
+    "courseCode": "PEHS",
+    "termName": "2",
+    "roomNumber": 148
+  },
+  {
+    "sectionNumber": 1,
+    "year": "2024-2025",
+    "professorId": 5712532,
+    "lectureId": 306766,
+    "courseCode": "INTROSOCII",
+    "termName": "2",
+    "roomNumber": 128
+  }
+]

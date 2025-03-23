@@ -1,0 +1,583 @@
+[
+  {
+    "lecturerId": 5361519,
+    "lectureCode": "ARTBND",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361487,
+    "lectureCode": "ARTCHOR",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361415,
+    "lectureCode": "ARTDRAW",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361415,
+    "lectureCode": "ARTSTD1",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361415,
+    "lectureCode": "ARTSTD2",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361400,
+    "lectureCode": "BIB10",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361400,
+    "lectureCode": "BIB10",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361417,
+    "lectureCode": "BIB11",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361417,
+    "lectureCode": "BIB11",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361454,
+    "lectureCode": "BIB12",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361454,
+    "lectureCode": "BIB12",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361454,
+    "lectureCode": "BIB9",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361400,
+    "lectureCode": "BIB9",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361498,
+    "lectureCode": "DEBIO101",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361498,
+    "lectureCode": "DECHEM105",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361474,
+    "lectureCode": "DEENG101",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361474,
+    "lectureCode": "DEENG151",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361457,
+    "lectureCode": "DEITCHG",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361457,
+    "lectureCode": "DESOCIP",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361422,
+    "lectureCode": "DESOCWCIV2",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361422,
+    "lectureCode": "DEWCIV1",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361474,
+    "lectureCode": "ENG10",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361474,
+    "lectureCode": "ENG10H",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5322089,
+    "lectureCode": "ENG11",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361474,
+    "lectureCode": "ENG11AMLTH-",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361474,
+    "lectureCode": "ENG12WORLD",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361474,
+    "lectureCode": "ENG12WORLDH",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5322089,
+    "lectureCode": "ENG9",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5322089,
+    "lectureCode": "ENG9H",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5322089,
+    "lectureCode": "ENGSPCH",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361400,
+    "lectureCode": "FAF",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361400,
+    "lectureCode": "FAF",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361461,
+    "lectureCode": "FINLIT",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361461,
+    "lectureCode": "FINLIT",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361540,
+    "lectureCode": "LANSP1",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361540,
+    "lectureCode": "LANSP1",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361540,
+    "lectureCode": "LANSP2",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361540,
+    "lectureCode": "LANSP2",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361540,
+    "lectureCode": "LANSP3",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361526,
+    "lectureCode": "MATALG1",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361526,
+    "lectureCode": "MATALG1H",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361380,
+    "lectureCode": "MATALG2",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361420,
+    "lectureCode": "MATALG2",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5407259,
+    "lectureCode": "MATALG2H",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361412,
+    "lectureCode": "MATAPCALCAB",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361412,
+    "lectureCode": "MATDESTATS",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5407259,
+    "lectureCode": "MATGEOM",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5407259,
+    "lectureCode": "MATGEOMH",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361412,
+    "lectureCode": "MATHALGIII",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361412,
+    "lectureCode": "MATHSTATSH",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361412,
+    "lectureCode": "MATTRIG",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361412,
+    "lectureCode": "MATTRIGH",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361411,
+    "lectureCode": "PEHEALTHHS",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361411,
+    "lectureCode": "PEHEALTHHS",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361411,
+    "lectureCode": "PEHEALTHHS",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 3
+  },
+  {
+    "lecturerId": 5361411,
+    "lectureCode": "PEHS",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361411,
+    "lectureCode": "PEHS",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361411,
+    "lectureCode": "PEPF",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361498,
+    "lectureCode": "SCIANATPH",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361409,
+    "lectureCode": "SCIBIO",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361409,
+    "lectureCode": "SCIBIOH",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361498,
+    "lectureCode": "SCICHEM10H",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361498,
+    "lectureCode": "SCICHEM10H",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361409,
+    "lectureCode": "SCIERTH",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361409,
+    "lectureCode": "SCIERTH",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361526,
+    "lectureCode": "SCIMABIO",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361526,
+    "lectureCode": "SCIPHY",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361492,
+    "lectureCode": "SOC10GOV",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361492,
+    "lectureCode": "SOC10GOV",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5361492,
+    "lectureCode": "SOC10GOVH",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361461,
+    "lectureCode": "SOC11",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361492,
+    "lectureCode": "SOC9",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361492,
+    "lectureCode": "SOC9",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5322089,
+    "lectureCode": "SOCIB",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361516,
+    "lectureCode": "TECHADVROB",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361516,
+    "lectureCode": "TECHDIGIT",
+    "length": 1,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361516,
+    "lectureCode": "TECHGRAPHIC",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361516,
+    "lectureCode": "TECHGRAPHIC",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 2
+  },
+  {
+    "lecturerId": 5396676,
+    "lectureCode": "TECHYEAR",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361411,
+    "lectureCode": "PERS",
+    "length": 1,
+    "startTerm": 2,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361498,
+    "lectureCode": "SCIPHYH",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5361516,
+    "lectureCode": "APCOMP",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  },
+  {
+    "lecturerId": 5322089,
+    "lectureCode": "ENGJOUR",
+    "length": 2,
+    "startTerm": 1,
+    "sectionNumber": 1
+  }
+]
